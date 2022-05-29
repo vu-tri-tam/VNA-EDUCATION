@@ -1,0 +1,131 @@
+.auth-input {
+  width: 100%;
+  padding: 5px 0px 5px 10px;
+  color: black;
+  font-size: 18px;
+}
+.auth-check {
+  margin-left: 1.5rem;
+  margin-right: 0.2rem;
+}
+.auth-radio {
+  padding: 0 1rem;
+  margin-bottom: 1rem;
+  height: 55px;
+}
+.auth-button {
+  padding: 5px 30px;
+  border-radius: 5px;
+  border: #5757ff solid;
+  background: #5757ff;
+  color: white;
+  margin-right: 5px;
+}
+.auth-button-footer {
+  padding: 0 3rem 0 0;
+  text-align: right;
+}
+.card-box-img {
+  margin: auto;
+  max-width: 200px;
+}
+.errorMsg {
+  color: red;
+  font-size: 22px;
+  margin: 5px 0;
+}
+.imgPreview {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 50%;
+}
+.imgPreview input[type="file"] {
+  display: none;
+}
+.imgPreview .customFileUpload {
+  font-size: 22px;
+  font-family: 500;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+.upload-img-button {
+  padding: 0 30px;
+  border-radius: 5px;
+  border: #5757ff solid;
+  background: #5757ff;
+  color: white;
+  margin-top: 10px;
+}
+.input-field {
+  height: 55px;
+}
+.p-field {
+  margin: 0;
+  font-size: 12px;
+  color: red;
+  margin-left: 12px;
+}
+.mb-3 {
+  margin-bottom: 1.9rem !important;
+}
+
+/*tags-input*/
+
+.tags-input {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  min-height: 48px;
+  width: 100%;
+  padding: 0 8px;
+  border: 1px solid rgb(214, 216, 218);
+  border-radius: 6px;
+}
+#tags {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 8px 0 0 0;
+}
+.tag-search {
+  width: auto;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  padding: 0 8px;
+  font-size: 14px;
+  list-style: none;
+  border-radius: 6px;
+  margin: 0 8px 8px 0;
+  background: #0052cc;
+}
+.tag-title {
+  margin-top: 3px;
+}
+.tag-close-icon {
+  display: block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  text-align: center;
+  font-size: 14px;
+  margin-left: 8px;
+  color: #0052cc;
+  border-radius: 50%;
+  background: #fff;
+  cursor: pointer;
+}
+.input-tag-search {
+  flex: 1;
+  border: none;
+  height: 46px;
+  font-size: 14px;
+  padding: 4px 0 0 0;
+}

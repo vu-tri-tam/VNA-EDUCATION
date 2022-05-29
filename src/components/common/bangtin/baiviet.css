@@ -1,0 +1,22 @@
+.css-table figure table {
+  background-color: #fff !important;
+}
+
+.css-table figure {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.baivietitem-divi-line {
+  border-bottom: 1px solid #f1f1f1;
+  border-radius: 0;
+}
+
+.baivietitem-divi-line:last-child {
+  border-bottom: 0px solid #f1f1f1;
+}
+
+.cata-title-hover:hover {
+  color: #575fcf;
+  transition: 0.7s all;
+}

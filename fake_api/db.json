@@ -1,0 +1,1705 @@
+{
+  "danhgia": [
+    {
+      "id": 1,
+      "monHoc": "Toán",
+      "tietHoc": "1-2",
+      "trangThai": 0,
+      "giaoVien": "Mr A",
+      "ngayDanhGia": "20/05/2021",
+      "ghiChu": "woww",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 0,
+              "trongSo": 1
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 0,
+              "trongSo": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "tenTC": "Nội dung bài học ?",
+          "noiDung": "Chất lượng dạy trong các tiết học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Giáo viên có đảm bảo tiến độ buổi học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Trả lời thắt mắt trong quá trình dạy giảng như thế nào ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ],
+      "diemDG": 10,
+      "diemForm": [
+        {
+          "tieuchi_1_muctieu_1": "10",
+          "tieuchi_1_muctieu_2": "10",
+          "tieuchi_2_muctieu_1": "10",
+          "tieuchi_2_muctieu_2": "10",
+          "gop_y": "woww"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "monHoc": "Văn",
+      "tietHoc": "3-4",
+      "trangThai": 0,
+      "giaoVien": "Ms B",
+      "ngayDanhGia": "20/05/2021",
+      "ghiChu": "",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ],
+      "diemDG": 10,
+      "diemForm": [
+        {
+          "tieuchi_1_muctieu_1": "10",
+          "tieuchi_1_muctieu_2": "10"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "monHoc": "Lịch sử",
+      "tietHoc": "1-2",
+      "trangThai": 0,
+      "giaoVien": "Mr Long",
+      "ngayDanhGia": "21/05/2021",
+      "ghiChu": "khong",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 0,
+              "trongSo": 1
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 0,
+              "trongSo": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "tenTC": "Nội dung bài học ?",
+          "noiDung": "Chất lượng dạy trong các tiết học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Giáo viên có đảm bảo tiến độ buổi học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Trả lời thắt mắt trong quá trình dạy giảng như thế nào ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ],
+      "diemDG": 7,
+      "diemForm": [
+        {
+          "tieuchi_1_muctieu_1": "10",
+          "tieuchi_1_muctieu_2": "8",
+          "tieuchi_2_muctieu_1": "6",
+          "tieuchi_2_muctieu_2": "4",
+          "gop_y": "khong"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "monHoc": "Sinh học",
+      "tietHoc": "3-4",
+      "trangThai": 0,
+      "giaoVien": "Ms Trâm",
+      "ngayDanhGia": "21/05/2021",
+      "ghiChu": "",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "monHoc": "Toán",
+      "tietHoc": "1-2",
+      "trangThai": 0,
+      "giaoVien": "Mr A",
+      "ngayDanhGia": "22/05/2021",
+      "ghiChu": "",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 0,
+              "trongSo": 1
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 0,
+              "trongSo": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "tenTC": "Nội dung bài học ?",
+          "noiDung": "Chất lượng dạy trong các tiết học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Giáo viên có đảm bảo tiến độ buổi học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Trả lời thắt mắt trong quá trình dạy giảng như thế nào ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "nguoi-dung": [
+    {
+      "id": "001",
+      "maND": "GV7002341789",
+      "hoTen": "Lào Thị Bưởi",
+      "emailND": "laoThiBuoi@gmail.com",
+      "matKhau": "123",
+      "hinhAnh": "",
+      "soDienThoai": "0909090909",
+      "truongTrucThuoc": "Trường PTDTNT THCS & THPT Bù Gia Mập",
+      "gioiTinh": "Nữ",
+      "ngàySinh": "01/01/1987",
+      "noiSinh": "Kon Tum",
+      "diaChi": "Kon Tum",
+      "hoChieu": "285011466",
+      "noiCap": "Kon Tum",
+      "quocTich": "Việt nam",
+      "danToc": "Tày",
+      "chucVu": "Giáo viên",
+      "nhomChucVu": "Giáo viên",
+      "trinhDoChuyenMon": "Cao đẳng sư phạm",
+      "monDay": "Công nghệ",
+      "hinhThucHopDong": "Viên chức/Công chức HĐLV không xác định thời hạn",
+      "daXacNhan": "Đang làm việc"
+    },
+    {
+      "id": "002",
+      "maND": "GV7002568904",
+      "hoTen": "Trần Thị Kim Chi",
+      "emailND": "tranThiKimChi@gmail.com",
+      "matKhau": "123",
+      "hinhAnh": "",
+      "soDienThoai": "0909090909",
+      "truongTrucThuoc": "Trường PTDTNT THCS & THPT Bù Gia Mập",
+      "gioiTinh": "Nữ",
+      "ngàySinh": "01/01/1995",
+      "noiSinh": "Buôn Mê Thuột",
+      "diaChi": "Buôn Mê Thuột",
+      "hoChieu": "285011527",
+      "noiCap": "Buôn Mê Thuột",
+      "quocTich": "Việt nam",
+      "danToc": "Kinh",
+      "chucVu": "Nhân viên",
+      "nhomChucVu": "Nhân viên kế toán",
+      "trinhDoChuyenMon": "Đại học",
+      "monDay": null,
+      "hinhThucHopDong": "Viên chức/Công chức HĐLV không xác định thời hạn",
+      "daXacNhan": "Đang làm việc"
+    },
+    {
+      "id": "003",
+      "maND": "HS7002341748",
+      "hoTen": "Lê Văn Công",
+      "emailND": "leVanCong@gmail.com",
+      "matKhau": "123",
+      "hinhAnh": "",
+      "soDienThoai": "0909090909",
+      "truongTrucThuoc": "Trường PTDTNT THCS & THPT Bù Gia Mập",
+      "gioiTinh": "Nam",
+      "ngàySinh": "01/01/1987",
+      "noiSinh": "Buôn Mê Thuột",
+      "diaChi": "Buôn Mê Thuột",
+      "hoChieu": "285011013",
+      "noiCap": "Buôn Mê Thuột",
+      "quocTich": "Việt nam",
+      "danToc": "Kinh",
+      "chucVu": "Giáo viên",
+      "nhomChucVu": "Giáo viên",
+      "trinhDoChuyenMon": "Cao đẳng sư phạm",
+      "monDay": "Âm nhạc",
+      "hinhThucHopDong": "Viên chức/Công chức HĐLV không xác định thời hạn",
+      "daXacNhan": "Đang làm việc"
+    },
+    {
+      "id": "004",
+      "maND": "HS7002341767",
+      "hoTen": "Nguyễn Quốc Đại",
+      "emailND": "nguyenQuocDai@gmail.com",
+      "matKhau": "123",
+      "hinhAnh": "",
+      "soDienThoai": "0909090909",
+      "truongTrucThuoc": "Trường PTDTNT THCS & THPT Bù Gia Mập",
+      "gioiTinh": "Nam",
+      "ngàySinh": "01/10/1974",
+      "noiSinh": "Bình Thuận",
+      "diaChi": "Bình Thuận",
+      "hoChieu": "285011032",
+      "noiCap": "Bình Thuận",
+      "quocTich": "Việt nam",
+      "danToc": "Kinh",
+      "chucVu": "Giáo viên",
+      "nhomChucVu": "Giáo viên",
+      "trinhDoChuyenMon": "Đại học sư phạm",
+      "monDay": "Toán",
+      "hinhThucHopDong": "Viên chức/Công chức HĐLV không xác định thời hạn",
+      "daXacNhan": "Đang làm việc"
+    },
+    {
+      "id": "ea8593d9-34f1-41a8-8886-ec40ce18aba6",
+      "maND": "gv12345",
+      "hoTen": "HAI LE",
+      "soDienThoai": "0933511342",
+      "hinhAnh": "",
+      "emailND": "nckt9a.lehoanghai@gmail.com",
+      "matKhau": "12345",
+      "gender": "",
+      "ngaySinh": "12/04",
+      "noiSinh": "ho chi minh",
+      "danToc": "Kinh",
+      "quocTich": "Vietnam",
+      "hoChieu": "1240322250",
+      "ngayCap": "12/04",
+      "diaChi": "HOC MON",
+      "chucVu": "giao vien",
+      "nhomChuVu": "Giao vien",
+      "tDCM": "Đai học",
+      "hinhThucHopDong": "bien chế",
+      "truongTrucThuoc": "fpt",
+      "monDay": "toán"
+    },
+    {
+      "id": "5ae1fea5-8048-4e70-8f69-d2d9b1a24d45",
+      "maND": "gv12345",
+      "hoTen": "Lê Hoàng Hải",
+      "soDienThoai": "0933511342",
+      "hinhAnh": "",
+      "emailND": "nckt9a.lehoanghai@gmail.com",
+      "matKhau": "12345",
+      "gender": "",
+      "ngaySinh": "12/04",
+      "noiSinh": "ho chi minh",
+      "danToc": "Kinh",
+      "quocTich": "Việt Nam",
+      "hoChieu": "1240322250",
+      "ngayCap": "12/04",
+      "diaChi": "hoc mon",
+      "chucVu": "giao vien",
+      "nhomChuVu": "Giao vien",
+      "tDCM": "Đai học",
+      "hinhThucHopDong": "bien chế",
+      "truongTrucThuoc": "fpt",
+      "monDay": "toán",
+      "TrangThai": "conDay"
+    },
+    {
+      "id": "ac876646-638f-4406-a3af-1608e0e0d791",
+      "maND": "ps11105",
+      "hoTen": "Lê Hoàng xxxx",
+      "soDienThoai": "0933511342",
+      "hinhAnh": "",
+      "emailND": "nckt9a.lehoanghai@gmail.com",
+      "matKhau": "12345",
+      "gender": "",
+      "ngaySinh": "12/04",
+      "noiSinh": "ho chi minh",
+      "danToc": "Kinh",
+      "quocTich": "Việt Nam",
+      "hoChieu": "1240322250",
+      "ngayCap": "12/04",
+      "diaChi": "hoc mon",
+      "chucVu": "giao vien",
+      "nhomChuVu": "Giao vien",
+      "tDCM": "Đai học",
+      "hinhThucHopDong": "bien chế",
+      "truongTrucThuoc": "fpt",
+      "monDay": "toán",
+      "TrangThai": "conDay"
+    }
+  ],
+  "bang-diem": [
+    {
+      "id": 1,
+      "tenND": "HS0001VMT",
+      "hoTen": "Võ Minh Trí",
+      "emailND": "minhtri@gmail.com",
+      "matKhau": "12345",
+      "daXacNhan": 1,
+      "bangDiem": [
+        {
+          "id": 1,
+          "monHoc": "Văn Học",
+          "kiemTra_mieng": 10,
+          "kiemTra_15phut": 8,
+          "kiemTra_1tiet": 7,
+          "thi_HK1": 8,
+          "thi_HK2": 9
+        },
+        {
+          "id": 2,
+          "monHoc": "Toán",
+          "kiemTra_mieng": 9,
+          "kiemTra_15phut": 1,
+          "kiemTra_1tiet": 7,
+          "thi_HK1": 10,
+          "thi_HK2": 10
+        },
+        {
+          "id": 3,
+          "monHoc": "Sinh Học",
+          "kiemTra_mieng": 5,
+          "kiemTra_15phut": 7,
+          "kiemTra_1tiet": 6,
+          "thi_HK1": 8,
+          "thi_HK2": 9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tenND": "PH0001DCCB",
+      "hoTen": "Nguyễn Trí Tâm",
+      "emailND": "dccb@gmail.com",
+      "matKhau": "12345",
+      "daXacNhan": 0,
+      "bangDiem": [
+        {
+          "id": 1,
+          "monHoc": "Văn Học",
+          "kiemTra_mieng": 8,
+          "kiemTra_15phut": 10,
+          "kiemTra_1tiet": 6,
+          "thi_HK1": 6,
+          "thi_HK2": 9
+        },
+        {
+          "id": 2,
+          "monHoc": "Toán",
+          "kiemTra_mieng": 9,
+          "kiemTra_15phut": 10,
+          "kiemTra_1tiet": 9,
+          "thi_HK1": 9,
+          "thi_HK2": 7
+        },
+        {
+          "id": 3,
+          "monHoc": "Sinh Học",
+          "kiemTra_mieng": 10,
+          "kiemTra_15phut": 8,
+          "kiemTra_1tiet": 9,
+          "thi_HK1": 7,
+          "thi_HK2": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tenND": "HS0001VMT",
+      "hoTen": "Lê Hoảng Hải",
+      "emailND": "minhtri@gmail.com",
+      "matKhau": "12345",
+      "daXacNhan": 1,
+      "bangDiem": [
+        {
+          "id": 1,
+          "monHoc": "Văn Học",
+          "kiemTra_mieng": 10,
+          "kiemTra_15phut": 8,
+          "kiemTra_1tiet": 7,
+          "thi_HK1": 8,
+          "thi_HK2": 9
+        },
+        {
+          "id": 2,
+          "monHoc": "Toán",
+          "kiemTra_mieng": 9,
+          "kiemTra_15phut": 1,
+          "kiemTra_1tiet": 7,
+          "thi_HK1": 10,
+          "thi_HK2": 10
+        },
+        {
+          "id": 3,
+          "monHoc": "Sinh Học",
+          "kiemTra_mieng": 5,
+          "kiemTra_15phut": 7,
+          "kiemTra_1tiet": 6,
+          "thi_HK1": 8,
+          "thi_HK2": 9
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tenND": "PH0001DCCB",
+      "hoTen": "Lương Xung Trung Dũng",
+      "emailND": "dccb@gmail.com",
+      "matKhau": "12345",
+      "daXacNhan": 0,
+      "bangDiem": [
+        {
+          "id": 1,
+          "monHoc": "Văn Học",
+          "kiemTra_mieng": 8,
+          "kiemTra_15phut": 10,
+          "kiemTra_1tiet": 6,
+          "thi_HK1": 6,
+          "thi_HK2": 9
+        },
+        {
+          "id": 2,
+          "monHoc": "Toán",
+          "kiemTra_mieng": 9,
+          "kiemTra_15phut": 10,
+          "kiemTra_1tiet": 9,
+          "thi_HK1": 9,
+          "thi_HK2": 7
+        },
+        {
+          "id": 3,
+          "monHoc": "Sinh Học",
+          "kiemTra_mieng": 10,
+          "kiemTra_15phut": 8,
+          "kiemTra_1tiet": 9,
+          "thi_HK1": 7,
+          "thi_HK2": 10
+        }
+      ]
+    }
+  ],
+  "Bang-diem-tong": [
+    {
+      "id": 1,
+      "lopHoc": "10A1",
+      "hocSinh": [
+        {
+          "id": 1,
+          "tenND": "HS0001VMT",
+          "hoTen": "Võ Minh Trí",
+          "emailND": "minhtri@gmail.com",
+          "matKhau": "12345",
+          "daXacNhan": 1,
+          "bangDiem": [
+            {
+              "id": 1,
+              "monHoc": "Văn Học",
+              "kiemTra_mieng": 10,
+              "kiemTra_15phut": 8,
+              "kiemTra_1tiet": 7,
+              "thi_HK1": 8,
+              "thi_HK2": 9
+            },
+            {
+              "id": 2,
+              "monHoc": "Toán",
+              "kiemTra_mieng": 9,
+              "kiemTra_15phut": 1,
+              "kiemTra_1tiet": 7,
+              "thi_HK1": 10,
+              "thi_HK2": 10
+            },
+            {
+              "id": 3,
+              "monHoc": "Sinh Học",
+              "kiemTra_mieng": 5,
+              "kiemTra_15phut": 7,
+              "kiemTra_1tiet": 6,
+              "thi_HK1": 8,
+              "thi_HK2": 9
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "tenND": "PH0001DCCB",
+          "hoTen": "Nguyễn Trí Tâm",
+          "emailND": "dccb@gmail.com",
+          "matKhau": "12345",
+          "daXacNhan": 0,
+          "bangDiem": [
+            {
+              "id": 1,
+              "monHoc": "Văn Học",
+              "kiemTra_mieng": 8,
+              "kiemTra_15phut": 10,
+              "kiemTra_1tiet": 6,
+              "thi_HK1": 6,
+              "thi_HK2": 9
+            },
+            {
+              "id": 2,
+              "monHoc": "Toán",
+              "kiemTra_mieng": 9,
+              "kiemTra_15phut": 10,
+              "kiemTra_1tiet": 9,
+              "thi_HK1": 9,
+              "thi_HK2": 7
+            },
+            {
+              "id": 3,
+              "monHoc": "Sinh Học",
+              "kiemTra_mieng": 10,
+              "kiemTra_15phut": 8,
+              "kiemTra_1tiet": 9,
+              "thi_HK1": 7,
+              "thi_HK2": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lopHoc": "10A2",
+      "hocSinh": [
+        {
+          "id": 3,
+          "tenND": "HS0001VMT",
+          "hoTen": "Lê Hoảng Hải",
+          "emailND": "minhtri@gmail.com",
+          "matKhau": "12345",
+          "daXacNhan": 1,
+          "bangDiem": [
+            {
+              "id": 1,
+              "monHoc": "Văn Học",
+              "kiemTra_mieng": 10,
+              "kiemTra_15phut": 8,
+              "kiemTra_1tiet": 7,
+              "thi_HK1": 8,
+              "thi_HK2": 9
+            },
+            {
+              "id": 2,
+              "monHoc": "Toán",
+              "kiemTra_mieng": 9,
+              "kiemTra_15phut": 1,
+              "kiemTra_1tiet": 7,
+              "thi_HK1": 10,
+              "thi_HK2": 10
+            },
+            {
+              "id": 3,
+              "monHoc": "Sinh Học",
+              "kiemTra_mieng": 5,
+              "kiemTra_15phut": 7,
+              "kiemTra_1tiet": 6,
+              "thi_HK1": 8,
+              "thi_HK2": 9
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "tenND": "PH0001DCCB",
+          "hoTen": "Lương Xung Trung Dũng",
+          "emailND": "dccb@gmail.com",
+          "matKhau": "12345",
+          "daXacNhan": 0,
+          "bangDiem": [
+            {
+              "id": 1,
+              "monHoc": "Văn Học",
+              "kiemTra_mieng": 8,
+              "kiemTra_15phut": 10,
+              "kiemTra_1tiet": 6,
+              "thi_HK1": 6,
+              "thi_HK2": 9
+            },
+            {
+              "id": 2,
+              "monHoc": "Toán",
+              "kiemTra_mieng": 9,
+              "kiemTra_15phut": 10,
+              "kiemTra_1tiet": 9,
+              "thi_HK1": 9,
+              "thi_HK2": 7
+            },
+            {
+              "id": 3,
+              "monHoc": "Sinh Học",
+              "kiemTra_mieng": 10,
+              "kiemTra_15phut": 8,
+              "kiemTra_1tiet": 9,
+              "thi_HK1": 7,
+              "thi_HK2": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bang-tin": [
+    {
+      "id": 1,
+      "title": "CƠ SỞ 1_THÔNG BÁO THỜI KHÓA BIỂU TIẾNG ANH KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 1,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 2,
+      "title": "CƠ SỞ 2_THÔNG BÁO THỜI KHÓA BIỂU GIÁO DỤC THỂ CHẤT , TIẾNG ANH VÀ TIẾNG ANH CHUYÊN NGÀNH KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 1,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 3,
+      "title": "CƠ SỞ 3_THÔNG BÁO THỜI KHÓA BIỂU GIÁO DỤC THỂ CHẤT VÀ TIẾNG ANH KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 1,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 4,
+      "title": "Phòng CTSV thông báo DSSV THÔI HỌC TỰ NGUYỆN học kỳ Summer 2021, cập nhật ngày 11/5/2021.",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 2,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 5,
+      "title": "PHÒNG CTSV THÔNG BÁO V/V XÉT CẤP HỌC BỔNG “TIẾP BƯỚC TƯƠNG LAI” HỌC KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 2,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 6,
+      "title": "THÔNG BÁO (V/v công bố kết quả đăng ký thực tập học kỳ Summer 2021)",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 2,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 7,
+      "title": "DANH SÁCH SINH VIÊN HOÀN THÀNH HỌC PHÍ HK SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 3,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 8,
+      "title": "THÔNG BÁO HỌC PHÍ HỌC KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 3,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 9,
+      "title": "DANH SÁCH SINH VIÊN HOÀN THÀNH HỌC PHÍ HỌC KỲ SPRING 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 3,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    }
+  ],
+  "tuan-hoc": [
+    {
+      "id": 1,
+      "soTuan": 1,
+      "thoiGian": "24/5 - 29/5",
+      "lopHoc": "10A1",
+      "buoiHoc": [
+        {
+          "id": 1,
+          "thu": "Hai",
+          "ngayHoc": "19/05/2021",
+          "tuanHoc": 1,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 1,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 1,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 1,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 1,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "thu": "Ba",
+          "ngayHoc": "20/05/2021",
+          "tuanHoc": 1,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 2,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 2,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 2,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 2,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "thu": "Tu",
+          "ngayHoc": "20/05/2021",
+          "tuanHoc": 1,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 3,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 3,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 3,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 3,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "thu": "Nam",
+          "ngayHoc": "22/05/2021",
+          "tuanHoc": 1,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 4,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 4,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 4,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 4,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "thu": "Sau",
+          "ngayHoc": "23/05/2021",
+          "tuanHoc": 1,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 5,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 5,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 5,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 5,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "thu": "Bay",
+          "ngayHoc": "24/05/2021",
+          "tuanHoc": 1,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 6,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 6,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 6,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 6,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "soTuan": 2,
+      "thoiGian": "31/5 - 5/6",
+      "lopHoc": "10A2",
+      "buoiHoc": [
+        {
+          "id": 7,
+          "thu": "Hai",
+          "ngayHoc": "25/05/2021",
+          "tuanHoc": 2,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 7,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 7,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 7,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 7,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "thu": "Ba",
+          "ngayHoc": "26/05/2021",
+          "tuanHoc": 2,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 8,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 8,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 8,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 8,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "thu": "Tu",
+          "ngayHoc": "27/05/2021",
+          "tuanHoc": 2,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 9,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 9,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 9,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 9,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "thu": "Nam",
+          "ngayHoc": "28/05/2021",
+          "tuanHoc": 2,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 2,
+              "id_buoiHoc": 10,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 10,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 10,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 10,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "thu": "Sau",
+          "ngayHoc": "29/05/2021",
+          "tuanHoc": 2,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 11,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 11,
+              "monHoc": "Sinh Học",
+              "giaoVien": "Mr A",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 11,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 11,
+              "monHoc": "Lịch sử",
+              "giaoVien": "Mr X",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "thu": "Bay",
+          "ngayHoc": "30/05/2021",
+          "tuanHoc": 2,
+          "namHoc": "2021 - 2022",
+          "tietHoc": [
+            {
+              "id": 1,
+              "id_buoiHoc": 12,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "07:30 sáng"
+            },
+            {
+              "id": 2,
+              "id_buoiHoc": 12,
+              "monHoc": "Văn Học",
+              "giaoVien": "Mr Tuấn",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "08:15 sáng"
+            },
+            {
+              "id": 3,
+              "id_buoiHoc": 12,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "09:20 sáng"
+            },
+            {
+              "id": 4,
+              "id_buoiHoc": 12,
+              "monHoc": "Địa lý",
+              "giaoVien": "Mr Cường",
+              "lopHoc": "10A1",
+              "thoiGianBatDau": "10:05 sáng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "diem-danh": [
+    {
+      "id": 1,
+      "tietHoc": "1-2",
+      "lopHoc": "10a1",
+      "monHoc": "Văn Học",
+      "ngayHoc": "22/05/2021",
+      "coMat": false
+    },
+    {
+      "id": 2,
+      "tietHoc": "1-2",
+      "lopHoc": "10a1",
+      "monHoc": "Toán Học",
+      "ngayHoc": "23/05/2021",
+      "coMat": true
+    },
+    {
+      "id": 3,
+      "tietHoc": "1-2",
+      "lopHoc": "10a1",
+      "monHoc": "Lịch sử",
+      "ngayHoc": "24/05/2021",
+      "coMat": false
+    },
+    {
+      "id": 4,
+      "tietHoc": "1-2",
+      "lopHoc": "10a1",
+      "monHoc": "Hóa Học",
+      "ngayHoc": "20/05/2021",
+      "coMat": true
+    },
+    {
+      "id": 5,
+      "tietHoc": "1-2",
+      "lopHoc": "10a1",
+      "monHoc": "Sinh Học",
+      "ngayHoc": "19/05/2021",
+      "coMat": true
+    }
+  ],
+  "diem-danh-lop": [
+    {
+      "id": 1,
+      "lopHoc": "10A1",
+      "ngayHoc": "19/05/2021",
+      "tietHoc": "1-2",
+      "trangThai": true,
+      "monHoc": "Hóa Học",
+      "hocSinh": [
+        {
+          "id": 1,
+          "tenHocSinh": "Võ Minh Trí",
+          "coMat": true
+        },
+        {
+          "id": 2,
+          "tenHocSinh": "Lê Hoàng Hải",
+          "coMat": false
+        },
+        {
+          "id": 3,
+          "tenHocSinh": "Lương Xuân Trung Dũng ",
+          "coMat": false
+        },
+        {
+          "id": 4,
+          "tenHocSinh": "Vũ Trí Tâm",
+          "coMat": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "lopHoc": "10A2",
+      "ngayHoc": "19/05/2021",
+      "tietHoc": "3-4",
+      "trangThai": false,
+      "monHoc": "Hóa Học",
+      "hocSinh": [
+        {
+          "id": 1,
+          "tenHocSinh": "Võ Minh Trí",
+          "coMat": true
+        },
+        {
+          "id": 2,
+          "tenHocSinh": "Lê Hoàng Hải",
+          "coMat": true
+        },
+        {
+          "id": 3,
+          "tenHocSinh": "Lương Xuân Trung Dũng ",
+          "coMat": false
+        },
+        {
+          "id": 4,
+          "tenHocSinh": "Vũ Trí Tâm",
+          "coMat": false
+        }
+      ]
+    }
+  ],
+  "gv-xem-danh-gia": [
+    {
+      "id": 1,
+      "monHoc": "Toán",
+      "tietHoc": "1-2",
+      "trangThai": 1,
+      "tongHs": 10,
+      "ngayDanhGia": "20/05/2021",
+      "diemDG": 9,
+      "lopHoc": "10A1",
+      "hocSinh": [
+        {
+          "id": 1,
+          "diemDG": 9,
+          "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế"
+        },
+        {
+          "id": 2,
+          "diemDG": 6,
+          "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài."
+        },
+        {
+          "id": 3,
+          "diemDG": 7,
+          "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ"
+        },
+        {
+          "id": 4,
+          "diemDG": 8,
+          "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!"
+        },
+        {
+          "id": 5,
+          "diemDG": 9,
+          "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học."
+        },
+        {
+          "id": 6,
+          "diemDG": 6,
+          "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không.."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "monHoc": "Toán",
+      "tietHoc": "3-4",
+      "trangThai": 1,
+      "tongHs": 10,
+      "lopHoc": "10A2",
+      "ngayDanhGia": "20/05/2021",
+      "diemDG": 7,
+      "hocSinh": [
+        {
+          "id": 1,
+          "diemDG": 9,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        },
+        {
+          "id": 2,
+          "diemDG": 6,
+          "gopY": "Mạng trường quá yếu không hỗ trợ cho việc học tập được tốt nhất"
+        },
+        {
+          "id": 3,
+          "diemDG": 7,
+          "gopY": "Lúc giảng bài cô có thể quay clip lại để khi về nhà làm bài em có thể xem lại bài dễ dàng hơn ạ Đôi khi em đọc tài liệu thì em cũng không hiểu lắm ạ"
+        }
+      ]
+    }
+  ],
+  "bang-diem2": [
+    {
+      "id": 1,
+      "trungBinhCaNam": 10,
+      "xepLoai": "Xuất sắc",
+      "nhanXet": "Học Tập tốt có tiến bộ",
+      "hocSinh": "60b2087e843b0283d755117e",
+      "chiTiet": [
+        {
+          "giaoVien": "Mr Cường",
+          "monHoc": "Hóa Học",
+          "hocKy1": [
+            {
+              "diemMieng": 10,
+              "diem15Phut": 9,
+              "diem1Tiet": 9,
+              "diemTong": 10
+            }
+          ],
+          "hocKy2": [
+            {
+              "diemMieng": 5,
+              "diem15Phut": 4,
+              "diem1Tiet": 3,
+              "diemTong": 10
+            }
+          ],
+          "diemTB": 9,
+          "nhanXet": "Học Tập tốt nhưng hay nói chuyện riêng"
+        },
+        {
+          "giaoVien": "Mr Long",
+          "monHoc": "Lịch sử",
+          "hocKy1": [
+            {
+              "diemMieng": 10,
+              "diem15Phut": 9,
+              "diem1Tiet": 9,
+              "diemTong": 10
+            }
+          ],
+          "hocKy2": [
+            {
+              "diemMieng": 5,
+              "diem15Phut": 4,
+              "diem1Tiet": 3,
+              "diemTong": 10
+            }
+          ],
+          "diemTB": 6,
+          "nhanXet": "Nói chuyện riêng, la cà"
+        },
+        {
+          "giaoVien": "Mr Tuấn",
+          "monHoc": "Văn Học",
+          "hocKy1": [
+            {
+              "diemMieng": 10,
+              "diem15Phut": 9,
+              "diem1Tiet": 9,
+              "diemTong": 10
+            }
+          ],
+          "hocKy2": [
+            {
+              "diemMieng": 5,
+              "diem15Phut": 4,
+              "diem1Tiet": 3,
+              "diemTong": 10
+            }
+          ],
+          "diemTB": 9,
+          "nhanXet": "Rất có tìm năng"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "trungBinhCaNam": 6,
+      "xepLoai": "Trung bình",
+      "nhanXet": "Học Tập rất long ngông",
+      "hocSinh": "_id - 2",
+      "chiTiet": [
+        {
+          "giaoVien": "Mr Cường",
+          "monHoc": "Hóa Học",
+          "hocKy1": [
+            {
+              "diemMieng": 10,
+              "diem15Phut": 9,
+              "diem1Tiet": 9,
+              "diemTong": 10
+            }
+          ],
+          "hocKy2": [
+            {
+              "diemMieng": 5,
+              "diem15Phut": 4,
+              "diem1Tiet": 3,
+              "diemTong": 10
+            }
+          ],
+          "diemTB": 4.5,
+          "nhanXet": "Nói chuyện riêng"
+        },
+        {
+          "giaoVien": "Mr Long",
+          "monHoc": "Lịch sử",
+          "hocKy1": [
+            {
+              "diemMieng": 10,
+              "diem15Phut": 9,
+              "diem1Tiet": 9,
+              "diemTong": 10
+            }
+          ],
+          "hocKy2": [
+            {
+              "diemMieng": 5,
+              "diem15Phut": 4,
+              "diem1Tiet": 3,
+              "diemTong": 10
+            }
+          ],
+          "diemTB": 6,
+          "nhanXet": "Hay nghịch phá"
+        },
+        {
+          "giaoVien": "Mr Tuấn",
+          "monHoc": "Văn Học",
+          "hocKy1": [
+            {
+              "diemMieng": 10,
+              "diem15Phut": 9,
+              "diem1Tiet": 9,
+              "diemTong": 10
+            }
+          ],
+          "hocKy2": [
+            {
+              "diemMieng": 5,
+              "diem15Phut": 4,
+              "diem1Tiet": 3,
+              "diemTong": 10
+            }
+          ],
+          "diemTB": 6,
+          "nhanXet": "Rất nhiều chuyện"
+        }
+      ]
+    }
+  ],
+  "diem-danh2": [
+    {
+      "lopHoc": "10A1",
+      "ghiChu": "",
+      "tietHoc": [],
+      "gia": ""
+    }
+  ],
+  "danh-gia": [
+    {
+      "id": "001",
+      "tenDanhGia":"Đánh giá môn toán tiết 1 , 2",
+      "monHoc": "dropdown: Toán Học",
+      "giaoVien": "dropdown: Mr Tuấn",
+      "ngayHoc": "19-05-2021", 
+      "mauDG": "dropdown: maudg1",
+      "choGVCN": true,
+      "lopHoc": {
+        "id": "id lớp 10 a",
+        "tongHS": 3,
+        "diemFrom" : [
+          {
+            "id": "id học sinh 1",
+            "diemTB": 10,
+            "gopY": "dạy hay",
+            "trangThai": true
+          },
+          {
+            "id": "id học sinh 2",
+            "diemTB": 7,
+            "gopY": "dạy cũng dc",
+            "trangThai": true
+          },
+          {
+            "id": "id học sinh 3",
+            "diemTB": 0,
+            "gopY": "",
+            "trangThai": false
+          }
+        ]
+      }
+      
+    }
+  ],
+  "mau-danh-gia" :[
+    {
+      "id": "maudg1",
+      "tieuChi": [
+        {
+          "tenTC": "Nội dung bài học ?",
+          "noiDung":"Chất lượng dạy trong các tiết học như thế nào ?",
+          "mucTieu": [
+              "mục tiêu 1",
+              "mục tiêu 2"
+          ]
+        },
+        {
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung":"Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "mucTieu": [
+              "mục tiêu 1",
+              "mục tiêu 2"
+          ]
+        }
+      ]
+    }  
+  ] 
+}

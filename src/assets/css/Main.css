@@ -1,0 +1,17 @@
+.col-md-12 .kt-widget1 h3 a {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.col-md-12
+  .kt-widget1
+  .kt-widget1__item
+  .kt-widget1__info
+  .kt-widget1__title
+  a {
+  font-size: 0.9rem;
+}
+
+.col-md-12 .kt-widget1 .kt-widget1__item {
+  margin: 0 0 10% 0;
+}

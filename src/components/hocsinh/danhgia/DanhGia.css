@@ -1,0 +1,81 @@
+.cardCustum strong {
+  font-size: 1.5rem;
+}
+
+.card-hoverd {
+  transition: all 0.7s;
+  border-left: 2px solid #fff;
+}
+
+.card-hoverd:hover {
+  background-color: #f1f1f1;
+  border-left: 2px solid #435ebe;
+}
+
+.h5-xs {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.search-Input {
+  position: relative;
+}
+
+.search-Input .search-Icon {
+  position: absolute;
+  bottom: 0.6rem;
+  right: 1.5rem;
+}
+
+.titleTable {
+  background-color: #435ebe;
+  color: #fff;
+  padding: 0 2rem;
+  margin: 0rem;
+  border-radius: 4px;
+}
+
+@media (max-width: 575.98px) {
+  .titleTable {
+    display: none;
+  }
+
+  .xs-row {
+    padding: 0 1rem;
+  }
+  .xs-row .col-2 {
+    padding: 0;
+  }
+
+  .xs-row .col-10 {
+    padding: 0;
+  }
+
+  .card-hoverd {
+    transition: all 0.7s;
+    border-left: 2px solid #fff;
+    border-top: 2px solid #fff;
+  }
+
+  .card-hoverd:hover {
+    background-color: #f1f1f1;
+    border-left: 2px solid #f1f1f1;
+    border-top: 2px solid #435ebe;
+  }
+
+  .cxs {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -15px;
+    border-radius: 50%;
+  }
+
+  .h5-xs {
+    justify-content: start;
+  }
+}

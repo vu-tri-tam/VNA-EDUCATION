@@ -1,0 +1,63 @@
+.tableShow table tbody tr td .btn-sussess {
+    border: 1px solid #6bbada;
+    background: #71afea;
+    border-radius: 4px;
+    padding: 7px;
+    margin: 6px;
+    color: white;
+    font-size: 14px;
+}
+
+.tableShow table th {
+    text-align: center;
+}
+
+.tableShow table tr td {
+    text-align: center;
+}
+
+.tableShow table tbody tr .td-show {
+    display: block;
+}
+
+.tableShow table tbody tr .td-none {
+    display: none;
+}
+
+.tableShow table tbody tr td .btn-detail {
+    border: 1px solid #5ef38b;
+    background: #5ef38b;
+    border-radius: 4px;
+    padding: 7px;
+    margin: 6px;
+    color: white;
+    font-size: 14px;
+}
+
+.tableShow table tbody tr td .btn-danger {
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 7px;
+    /* margin: 10px; */
+    color: white;
+    font-size: 14px;
+}
+
+.showListStudent h4 {
+    margin-bottom: 5%;
+}
+
+.infoGVCN {
+    font-size: 1.025rem;
+    color: #0711e0;
+    margin: 0 0 2% 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .tableShow table tbody tr .td-show {
+        display: none;
+    }
+    .tableShow table tbody tr .td-none {
+        display: block;
+    }
+}

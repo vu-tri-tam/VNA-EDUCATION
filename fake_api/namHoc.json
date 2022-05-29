@@ -1,0 +1,45 @@
+{
+  "nam-hoc": [
+    {
+      "id": 1,
+      "tenNam": "năm học 2021-2022",
+      "namBatDau": 2020,
+      "namKetThuc": 2021,
+      "tuan": [
+        {
+          "id": 1,
+          "soTuan": 1,
+          "hk": 1,
+          "ten": "Tuần 1",
+          "thoiGian": "5-7-2021 - 10-7-2021"
+        },
+        {
+          "id": 2,
+          "soTuan": 2,
+          "hk": 1,
+          "ten": "Tuần 2",
+          "thoiGian": "12-7-2021 - 17-7-2021"
+        },
+        {
+          "id": 3,
+          "soTuan": 3,
+          "hk": 2,
+          "ten": "Tuần 3",
+          "thoiGian": "19-10-2021 - 27-10-2021"
+        }
+      ]
+    },
+    {
+      "tenNam": "năm học 2021-2022",
+      "namBatDau": "2022",
+      "namKetThuc": "2023",
+      "id": "fy6pP24"
+    },
+    {
+      "tenNam": "năm học 2021-2022",
+      "namBatDau": "2023",
+      "namKetThuc": "2024",
+      "id": "BIzh3O4"
+    }
+  ]
+}

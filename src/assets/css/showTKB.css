@@ -1,0 +1,33 @@
+h4 {
+    text-align: center;
+    
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    
+}
+
+th {
+    height: 40px;
+    text-align: left;
+    background: #f3f3f3;
+}
+
+.chooseYear select {
+    padding: 8px;
+    border: 1px gray;
+    border-radius: 4px;
+    background: ghostwhite;
+}
+
+@media only screen and (max-width: 600px) {
+    .container-table {
+        margin-top: 22%;
+    }
+}

@@ -1,0 +1,306 @@
+{
+  "danh-gia": [
+    {
+      "tenDG": "đánh giá 001",
+      "monHoc": "2",
+      "giaoVien": "60b20873843b0283d7551170",
+      "ngayHoc": "4-7-2021",
+      "choGVCN": true,
+      "mauDG": "3",
+      "lopHoc": "id lớp 10 a",
+      "id": 1
+    }
+  ],
+  "lop-hoc": [
+    {
+      "id": "id lớp 10 a",
+      "maLH": "10A3",
+      "GVCN": "",
+      "hocSinh": [
+        "nguoi-dung"
+      ]
+    },
+    {
+      "id": "id lớp 11 a",
+      "maLH": "10A2",
+      "GVCN": "",
+      "hocSinh": [
+        "lấy obj bảng nguoi-dung"
+      ]
+    }
+  ],
+  "mau-danh-gia": [
+    {
+      "tenMau": "mẫu đánh giá 002",
+      "tieuChi": [
+        {
+          "id": 1,
+          "mucTieu": [
+            {
+              "noiDung": "dạy chán lắm à ?",
+              "id": 1
+            },
+            {
+              "noiDung": "dạy dốt lắm à ?",
+              "id": 2
+            }
+          ],
+          "tenTC": "dạy có đúng giờ không ?",
+          "noiDung": "dạy như nào "
+        }
+      ],
+      "id": 2
+    },
+    {
+      "tenMau": "mẫu đánh giá 003",
+      "tieuChi": [
+        {
+          "id": 1,
+          "mucTieu": [
+            {
+              "noiDung": "tốt lắm không ?",
+              "id": 1
+            },
+            {
+              "noiDung": "tốt vậy à ?",
+              "id": 2
+            }
+          ],
+          "tenTC": "ok dạy tốt hả ?",
+          "noiDung": "dạy như thế nào "
+        },
+        {
+          "id": 2,
+          "mucTieu": [
+            {
+              "noiDung": "dạy như nào ?",
+              "id": 1
+            },
+            {
+              "noiDung": "uh tốt lắm nha ?",
+              "id": 2
+            }
+          ],
+          "tenTC": "ok dạy tốt hả  m pơ",
+          "noiDung": "mục đích dạy học là gì "
+        }
+      ],
+      "id": 3
+    },
+    {
+      "tenMau": "mẫu đánh giá 002",
+      "tieuChi": [
+        {
+          "id": 1,
+          "mucTieu": [
+            {
+              "noiDung": "c",
+              "id": 1
+            },
+            {
+              "noiDung": "v",
+              "id": 2
+            }
+          ],
+          "tenTC": "adasfaff",
+          "noiDung": "kjhgfdfgng"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "mon-hoc": [
+    {
+      "id": 1,
+      "tenMH": "Toán",
+      "soTiet": 12,
+      "giaoVien": []
+    },
+    {
+      "id": 2,
+      "tenMH": "Lý",
+      "soTiet": 12,
+      "giaoVien": []
+    },
+    {
+      "id": 3,
+      "tenMH": "Hóa",
+      "soTiet": 12,
+      "giaoVien": []
+    }
+  ],
+  "nguoi-dung": [
+    {
+      "id": "60b20873843b0283d7551170",
+      "maND": "GV001",
+      "hoTen": "Võ Minh Trí",
+      "emailND": "minhtrithcb@gmail.com",
+      "matKhau": "$2b$10$WUPKM5Poiz/00rWBSV//Xe76volfBLLGuCQBEyUE6jOzP6aPT0Q9O",
+      "diaChi": "Quận Gò Vấp, TP.HCM",
+      "ngaySinh": "1998-11-30T17: 00: 00.000+00: 00",
+      "danToc": "Kinh",
+      "quocTich": "Việt Nam",
+      "gioiTinh": "Nam",
+      "soDienThoai": "024 344 0762"
+    },
+    {
+      "id": "60b20873843b0283d7551170",
+      "maND": "GV002",
+      "hoTen": "Vũ Trí Tâm",
+      "emailND": "vutritamiuem@gmail.com",
+      "matKhau": "$2b$10$WUPKM5Poiz/00rWBSV//Xe76volfBLLGuCQBEyUE6jOzP6aPT0Q9O",
+      "diaChi": "Tây ninh",
+      "ngaySinh": "1999-12-16,T17: 00: 00.000+00: 00",
+      "danToc": "Kinh",
+      "quocTich": "Việt Nam",
+      "gioiTinh": "Nam",
+      "soDienThoai": "0967979049"
+    },
+    {
+      "id": "60b20873843b0283d7551170",
+      "maND": "HS001",
+      "hoTen": "Vũ Trí Thành",
+      "emailND": "Thanhcutrs@gmail.com",
+      "matKhau": "$2b$10$WUPKM5Poiz/00rWBSV//Xe76volfBLLGuCQBEyUE6jOzP6aPT0Q9O",
+      "diaChi": "Kiên giang",
+      "ngaySinh": "1999-12-16,T17: 00: 00.000+00: 00",
+      "danToc": "Kinh",
+      "quocTich": "Việt Nam",
+      "gioiTinh": "Nam",
+      "soDienThoai": "3424234234234"
+    }
+  ],
+  "thong-bao": [
+    {
+      "id": "a8c4b78a-eef4-46bd-bf02-ceb7154e0247",
+      "noiDung": "<ul><li><i>xin lỗi</i></li><li><i>tôi yêu cô</i></li></ul>",
+      "ngayDang": "2021-07-04",
+      "danhMuc": "Thông báo",
+      "tieuDe": "ăn cơm nha",
+      "nguoiDang": "vtt",
+      "tomTat": "ádasdasdasd"
+    }
+  ],
+  "lich-hoc": [
+    {
+      "idTuan": 1,
+      "tenTuan": "tuần 1",
+      "thoigianbatdau": "18/09/2020",
+      "thoigianketthuc": "20/12/2020",
+      "hocKi": 1,
+      "lichHoc": [
+        {
+          "idThu": 1,
+          "thu": "thứ 2",
+          "lop": [ //dropdown
+            {
+              "id": 1,
+              "tenLop": "10A1",
+              "monHoc": [
+                {
+                  "idMon": 1,
+                  "monHoc": "toán",
+                  "giaoVien": "vũ trí tâm",
+                  "thoiGian": "7h30"
+                },
+                {
+                  "idMon": 2,
+                  "monHoc": "Lý",
+                  "giaoVien": "võ minh trí",
+                  "thoiGian": "8h30"
+                },
+                {
+                  "idMon": 3,
+                  "monHoc": "hóa",
+                  "giaoVien": "lương xuân trung dũng",
+                  "thoiGian": "7h30"
+                },
+                {
+                  "idMon": 4,
+                  "monHoc": "văn",
+                  "giaoVien": "lê hoàng hải",
+                  "thoiGian": "8h30"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idThu": 2,
+          "thu": "thứ 3",
+          "monHoc": [
+            {
+              "idMon": 1,
+              "monHoc": "văn",
+              "giaoVien": "vũ trí tâm",
+              "thoiGian": "7h30"
+            },
+            {
+              "idMon": 2,
+              "monHoc": "sử",
+              "giaoVien": "võ minh trí",
+              "thoiGian": "8h30"
+            },
+            {
+              "idMon": 3,
+              "monHoc": "hóa",
+              "giaoVien": "lương xuân trung dũng",
+              "thoiGian": "7h30"
+            },
+            {
+              "idMon": 4,
+              "monHoc": "địa",
+              "giaoVien": "lê hoàng hải",
+              "thoiGian": "8h30"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "thu": [
+    {
+      "idThu": 1,
+      "thu": "thứ 2",
+      "ngayTao": "23/07/2021"
+    },
+    {
+      "idThu": 2,
+      "thu": "thứ 3",
+      "ngayTao": "23/07/2021"
+    },
+    {
+      "idThu": 3,
+      "thu": "thứ 4",
+      "ngayTao": "23/07/2021"
+    },
+    {
+      "idThu": 4,
+      "thu": "thứ 5",
+      "ngayTao": "23/07/2021"
+    },
+    {
+      "idThu": 5,
+      "thu": "thứ 6",
+      "ngayTao": "23/07/2021"
+    },
+    {
+      "idThu": 6,
+      "thu": "thứ 7",
+      "ngayTao": "23/07/2021"
+    },
+    {
+      "idThu": 7,
+      "thu": "chủ nhật",
+      "ngayTao": "23/07/2021"
+    },
+    {
+      "id": "60f156c07f17f9107902696d",
+      "ngayKetThuc": "19-7-2021",
+      "ngayBatDau": "25-7-2021",
+      "tenTuan": "Tuần 1",
+      "soTuan": 1,
+      "hocKy": 1
+    }
+  ]
+}

@@ -1,0 +1,2075 @@
+{
+  "danhgiaphuhuynh": [
+    {
+      "id": 1,
+      "monHoc": "Toán",
+      "tietHoc": "1-2",
+      "trangThai": 1,
+      "giaoVien": "Mr A",
+      "ngayDanhGia": "20/05/2021",
+      "ghiChu": "Phải làm trước tết !",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 5,
+              "trongSo": 1
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 10,
+              "trongSo": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "tenTC": "Nội dung bài học ?",
+          "noiDung": "Chất lượng dạy trong các tiết học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Giáo viên có đảm bảo tiến độ buổi học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Trả lời thắt mắt trong quá trình dạy giảng như thế nào ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "monHoc": "Văn",
+      "tietHoc": "3-4",
+      "trangThai": 1,
+      "giaoVien": "Ms B",
+      "ngayDanhGia": "20/05/2021",
+      "ghiChu": "",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "monHoc": "Lịch sử",
+      "tietHoc": "1-2",
+      "trangThai": 0,
+      "giaoVien": "Mr Long",
+      "ngayDanhGia": "21/05/2021",
+      "ghiChu": "Phải làm trước lễ !",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 5,
+              "trongSo": 1
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 10,
+              "trongSo": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "tenTC": "Nội dung bài học ?",
+          "noiDung": "Chất lượng dạy trong các tiết học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Giáo viên có đảm bảo tiến độ buổi học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Trả lời thắt mắt trong quá trình dạy giảng như thế nào ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "monHoc": "Sinh học",
+      "tietHoc": "3-4",
+      "trangThai": 1,
+      "giaoVien": "Ms Trâm",
+      "ngayDanhGia": "21/05/2021",
+      "ghiChu": "",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "monHoc": "Toán",
+      "tietHoc": "1-2",
+      "trangThai": 1,
+      "giaoVien": "Mr A",
+      "ngayDanhGia": "22/05/2021",
+      "ghiChu": "Phải làm trước khi ra trường",
+      "tieuChi": [
+        {
+          "id": 1,
+          "tenTC": "Thời gian giảng dạy ?",
+          "noiDung": "Trong thời gian mà giáo viên dạy học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Đến có dúng giờ không ?",
+              "diemDG": 5,
+              "trongSo": 1
+            },
+            {
+              "id": 2,
+              "noidungMT": "Có đảm bảo thời gian dạy học không ?",
+              "diemDG": 10,
+              "trongSo": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "tenTC": "Nội dung bài học ?",
+          "noiDung": "Chất lượng dạy trong các tiết học như thế nào ?",
+          "trongSo": 10,
+          "mucTieu": [
+            {
+              "id": 1,
+              "noidungMT": "Giáo viên có đảm bảo tiến độ buổi học không ?",
+              "diemDG": 0,
+              "trongSo": 0
+            },
+            {
+              "id": 2,
+              "noidungMT": "Trả lời thắt mắt trong quá trình dạy giảng như thế nào ?",
+              "diemDG": 0,
+              "trongSo": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bang-tin": [
+    {
+      "id": 1,
+      "title": "CƠ SỞ 1_THÔNG BÁO THỜI KHÓA BIỂU TIẾNG ANH KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 1,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 2,
+      "title": "CƠ SỞ 2_THÔNG BÁO THỜI KHÓA BIỂU GIÁO DỤC THỂ CHẤT , TIẾNG ANH VÀ TIẾNG ANH CHUYÊN NGÀNH KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 1,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 3,
+      "title": "CƠ SỞ 3_THÔNG BÁO THỜI KHÓA BIỂU GIÁO DỤC THỂ CHẤT VÀ TIẾNG ANH KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 1,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 4,
+      "title": "Phòng CTSV thông báo DSSV THÔI HỌC TỰ NGUYỆN học kỳ Summer 2021, cập nhật ngày 11/5/2021.",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 2,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 5,
+      "title": "PHÒNG CTSV THÔNG BÁO V/V XÉT CẤP HỌC BỔNG “TIẾP BƯỚC TƯƠNG LAI” HỌC KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 2,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 6,
+      "title": "THÔNG BÁO (V/v công bố kết quả đăng ký thực tập học kỳ Summer 2021)",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 2,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 7,
+      "title": "DANH SÁCH SINH VIÊN HOÀN THÀNH HỌC PHÍ HK SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 3,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 8,
+      "title": "THÔNG BÁO HỌC PHÍ HỌC KỲ SUMMER 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 3,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    },
+    {
+      "id": 9,
+      "title": "DANH SÁCH SINH VIÊN HOÀN THÀNH HỌC PHÍ HỌC KỲ SPRING 2021",
+      "author": "Võ Minh Trí",
+      "created": "15:29:56 - 13/04/2021",
+      "id_catalog": 3,
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta repellat Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique quos maxime dicta re doloribus sapiente vel! Culpa blanditiis, unde repellat dolore eligendi velit possimus praesentium?"
+    }
+  ],
+  "gv-xem-danh-gia": [
+    {
+      "id": 1,
+      "monHoc": "Toán",
+      "giaoVien": "Mr A",
+      "tietHoc": "1-2",
+      "trangThai": 1,
+      "tongHs": 10,
+      "ngayDanhGia": "20/05/2021",
+      "diemDG": 9,
+      "lopHoc": "10A1",
+      "hocSinh": [
+        {
+          "id": 1,
+          "diemDG": 9,
+          "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế"
+        },
+        {
+          "id": 2,
+          "diemDG": 6,
+          "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài."
+        },
+        {
+          "id": 3,
+          "diemDG": 7,
+          "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ"
+        },
+        {
+          "id": 4,
+          "diemDG": 8,
+          "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!"
+        },
+        {
+          "id": 5,
+          "diemDG": 9,
+          "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học."
+        },
+        {
+          "id": 6,
+          "diemDG": 6,
+          "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không.."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "monHoc": "Toán",
+      "giaoVien": "Mr B",
+      "tietHoc": "3-4",
+      "trangThai": 1,
+      "tongHs": 10,
+      "lopHoc": "10A4",
+      "ngayDanhGia": "20/05/2021",
+      "diemDG": 5,
+      "hocSinh": [
+        {
+          "id": 1,
+          "diemDG": 9,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        },
+        {
+          "id": 2,
+          "diemDG": 6,
+          "gopY": "Mạng trường quá yếu không hỗ trợ cho việc học tập được tốt nhất"
+        },
+        {
+          "id": 3,
+          "diemDG": 7,
+          "gopY": "Lúc giảng bài cô có thể quay clip lại để khi về nhà làm bài em có thể xem lại bài dễ dàng hơn ạ Đôi khi em đọc tài liệu thì em cũng không hiểu lắm ạ"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "monHoc": "Toán",
+      "giaoVien": "Mr Long",
+      "tietHoc": "5-6",
+      "trangThai": 1,
+      "tongHs": 10,
+      "lopHoc": "10A8",
+      "ngayDanhGia": "20/05/2021",
+      "diemDG": 8,
+      "hocSinh": [
+        {
+          "id": 1,
+          "diemDG": 9,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        },
+        {
+          "id": 2,
+          "diemDG": 6,
+          "gopY": "Mạng trường quá yếu không hỗ trợ cho việc học tập được tốt nhất"
+        },
+        {
+          "id": 3,
+          "diemDG": 7,
+          "gopY": "Lúc giảng bài cô có thể quay clip lại để khi về nhà làm bài em có thể xem lại bài dễ dàng hơn ạ Đôi khi em đọc tài liệu thì em cũng không hiểu lắm ạ"
+        },
+        {
+          "id": 4,
+          "diemDG": 8,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        },
+        {
+          "id": 5,
+          "diemDG": 9,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        },
+        {
+          "id": 6,
+          "diemDG": 6,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "monHoc": "Toán",
+      "giaoVien": "Mr Trâm",
+      "tietHoc": "1-2",
+      "trangThai": 1,
+      "tongHs": 10,
+      "lopHoc": "10A10",
+      "ngayDanhGia": "20/05/2021",
+      "diemDG": 7,
+      "hocSinh": [
+        {
+          "id": 1,
+          "diemDG": 9,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        },
+        {
+          "id": 2,
+          "diemDG": 6,
+          "gopY": "Mạng trường quá yếu không hỗ trợ cho việc học tập được tốt nhất"
+        },
+        {
+          "id": 3,
+          "diemDG": 7,
+          "gopY": "Lúc giảng bài cô có thể quay clip lại để khi về nhà làm bài em có thể xem lại bài dễ dàng hơn ạ Đôi khi em đọc tài liệu thì em cũng không hiểu lắm ạ"
+        },
+        {
+          "id": 4,
+          "diemDG": 9,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        },
+        {
+          "id": 5,
+          "diemDG": 3,
+          "gopY": "Có vẻ nhìn chung giảng viên đang hạn chế ý tưởng của sinh viên, làm theo ý của giảng viên. Dù rằng một số lĩnh vực giảng viên chưa tìm hiểu đến hoặc chưa có kinh nghiệm hoàn toàn về đồ hoạ"
+        }
+      ]
+    }
+  ],
+  "danh-sach-gvcn": [
+    {
+      "id": 1,
+      "giaoVien": "vũ trí tâm",
+      "maGV": "GVCN_001",
+      "email": "vutritamiuem@gmail.com",
+      "tuổi": 22,
+      "diemDG": 9,
+      "chuNhiemLop": "12A3",
+      "GioiTinh": "Nam",
+      "NgaySinh": "16/12/1999",
+      "TrangThai": 0
+    },
+    {
+      "id": 2,
+      "giaoVien": "Nguyễn Thùy Dương",
+      "maGV": "GVCN_002",
+      "email": "ThuyDuong16091999@gmail.com",
+      "tuổi": 22,
+      "diemDG": 10,
+      "chuNhiemLop": "12A4",
+      "GioiTinh": "Nữ",
+      "NgaySinh": "16/09/1999",
+      "TrangThai": 0
+    },
+    {
+      "id": 3,
+      "giaoVien": "Nguyễn Văn Bê",
+      "maGV": "GVCN_001",
+      "email": "Benguyen@gmail.com",
+      "tuổi": 30,
+      "diemDG": 4,
+      "chuNhiemLop": "12A5",
+      "GioiTinh": "Nam",
+      "NgaySinh": "19/01/2022",
+      "TrangThai": 1
+    }
+  ],
+  "danh-sach-mon-hoc": [
+    {
+      "id": 1,
+      "monHoc": "Toán",
+      "soTiet": 12,
+      "giaoVien": [
+        {
+          "id": 1,
+          "giaoVien": "Mr A",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 9,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 5,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 4,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 3,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "giaoVien": "Mr Tâm",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 9,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 10,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 10,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 10,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 10,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 10,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "giaoVien": "Mr Dương",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 9,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "monHoc": "Ngữ Văn",
+      "soTiet": 12,
+      "giaoVien": [
+        {
+          "id": 1,
+          "giaoVien": "Mr D",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 9,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "giaoVien": "Mr K",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 9,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "giaoVien": "Mr Tinh",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 3,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "monHoc": "Sinh Học",
+      "soTiet": 12,
+      "giaoVien": [
+        {
+          "id": 1,
+          "giaoVien": "Mr Dượng Hai",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 10,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "giaoVien": "Mr K",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 6,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "giaoVien": "Mr Trinh",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 4,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "giaoVien": "Mr Trí",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 4,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "monHoc": "Lịch sử",
+      "soTiet": 12,
+      "giaoVien": [
+        {
+          "id": 1,
+          "giaoVien": "Mr Tâm",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 9,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "giaoVien": "Mr K",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 9,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "giaoVien": "Mr Trinh",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 9,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "giaoVien": "Mr Dũng",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 4,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "giaoVien": "Mr Hải",
+          "tietHoc": "1-2",
+          "trangThai": 1,
+          "tongHs": 10,
+          "diemDG": 4,
+          "lopHoc": "10A1",
+          "danhGiahocKy": [
+            {
+              "hocKyI": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 5.5,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 5.5,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 5.5,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 5.5,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 5.5,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì I"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì I"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "hocKyII": [
+                {
+                  "hocSinh": [
+                    {
+                      "id": 1,
+                      "diemDG": 9,
+                      "gopY": "Giảng viên chi đọc slide có sẵn khi giảng bài, không demo code và giải thích các lệnh cho sinh viên, thiếu các ví dụ thực tế",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 2,
+                      "diemDG": 6,
+                      "gopY": " Cô không quan tâm đến vấn đề của học sinh, những thắc mắc sau giờ học không được phản hồi. Học sinh chưa hiểu bài thì tỏ vẻ không vui cho rằng do học sinh không chú ý bài.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 3,
+                      "diemDG": 7,
+                      "gopY": "Em đánh giá lần thứ hai về kĩ năng sư phạm của cô Dương. 1. Cô hay đi trễ (5p) có thể là do lớp em hay đi sớm. Ca 17h30, 17h15 các bạn đã tới và phải đợi cô đến. Cô đi trễ cũng không say sorry với lớp. 2. Kiến thức sư phạm của cô không ổn hoặc có thể những giảng viên em từng học kiến thức quá đỉnh nên em thấy cô Dương không ổn (ngoài việc cô hay nói về việc cô từng mở công ty hay cô làm Việt Tiến bla bla) 3. Cô sử dụng slide của trường để dạy là điều cũng bình thường nhưng khó hiểu là cô nói lại y chang như thuyết trình học thuộc bài chứ không giống giảng bài cho sinh viên. Kết: đây là môn thứ hai em được học cô Dương và cá nhân em cảm thấy không thể học hỏi điều gì ở cô về kiến thức. Em đang học kỳ 5 sắp chuẩn bị sang kỳ 6 và sắp TN em chỉ mong có được sự hướng dẫn nhiệt tình của GV như 5 kỳ vừa qua em học thôi ạ. Đây là ý kiến cá nhân của em, em mong những ý kiến của em sẽ không ảnh hưởng đến cô. Em rất cảm ơn trường ạ",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 4,
+                      "diemDG": 8,
+                      "gopY": "Đề nghị thầy dạy những gì mới cần quay 1 đoạn clip mẫu chúng em tham khảo hoặc 1 đoạn clip nào có sẵn. Trong khi đó thầy giảng nói trên lớp nhiều khi chúng tiếp thu và ghi lại không kịp và chúng em cần 1 đoạn clip để làm tư liệu những gì thầy đã dạy qua. Mong thầy khắc phục giảng dạy trong gian tới ngày càng tốt hơn. Chúc thầy dạy thành công!",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 5,
+                      "diemDG": 9,
+                      "gopY": "Sau khi học 6 buổi môn Kỹ năng sáng tạo do thầy Cao Trung Hiếu phụ trách, em nhận thấy thầy Hiếu là người kiệm lời, ít nói và thầy không hề giảng dạy cho sinh viên về yêu cầu nội dung, hình thức của các bài Y trong Assignment (thầy chỉ đưa ra yêu cầu phần bài Y là trình bày về thứ gì để cho sinh viên chụp lại và tự về nhà làm mà không triển khai để sinh viên hiểu rõ đề bài, vấn đề cần làm để việc thực hành các bài Assignment được tốt hơn). Theo quan điểm cá nhân, em nghĩ đó là điểm khuyết trong lối giảng dạy của thầy ở trên lớp học.",
+                      "hocKi": "học kì II"
+                    },
+                    {
+                      "id": 6,
+                      "diemDG": 6,
+                      "gopY": "tại sao lại cho 1 gv dạy 3 môn như vậy, dạy rất dở, 3 môn qtrong nhất nữa chứ, kb ra trường đc không..",
+                      "hocKi": "học kì II"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "danh-sach-hoc-sinh": [
+    {
+      "id": 1,
+      "tenHS": "Vũ Trí Tâm",
+      "lớp": "12A1",
+      "Tuoi": 22,
+      "NgaySinh": "16/12/1999",
+      "Email": "vutritamiuem@gmail.com",
+      "GioiTinh": "Nam",
+      "hanhKiem": "Tốt",
+      "diemHK": {
+        "hocKiI": 9,
+        "hocKiII": 8,
+        "TBM": 9.0
+      },
+      "diemHK": {
+        "hocKiI": 9,
+        "hocKiII": 8,
+        "TBM": 9.0
+      },
+      "XepLoai": "Khá",
+      "GhiChu": "Học được nhưng cần chú ý hơn về cơ bản, chuyên sâu nhiều hơn, thực hành nhiều hơn"
+    },
+    {
+      "id": 1,
+      "tenHS": "Vũ Thành An",
+      "lớp": "12A2",
+      "Tuoi": 45,
+      "NgaySinh": "01/01/2976",
+      "Email": "anvuthanh@gmail.com",
+      "GioiTinh": "Nam",
+      "hanhKiem": "Khá",
+      "diemHK": {
+        "hocKiI": 9,
+        "hocKiII": 8,
+        "TBM": 9.0
+      },
+      "XepLoai": "Giỏi",
+      "GhiChu": "Học được nhưng cần chú ý hơn về cơ bản"
+    },
+    {
+      "id": 1,
+      "tenHS": "Nguyễn Thanh Vy",
+      "lớp": "12A4",
+      "Tuoi": 22,
+      "NgaySinh": "16/6/1999",
+      "Email": "anvynguyen@gmail.com",
+      "GioiTinh": "Nữ",
+      "hanhKiem": "Yếu",
+      "diemHK": {
+        "hocKiI": 9,
+        "hocKiII": 8,
+        "TBM": 9.0
+      },
+      "XepLoai": "Khá",
+      "GhiChu": "Học rất tệ nhưng cần chú ý hơn về cơ bản, chuyên sâu nhiều hơn, thực hành nhiều hơn"
+    },
+    {
+      "id": 1,
+      "tenHS": "Võ Minh Trí",
+      "lớp": "12A5",
+      "Tuoi": 22,
+      "NgaySinh": "12/2/1999",
+      "Email": "vominhtri@gmail.com",
+      "GioiTinh": "Nam",
+      "hanhKiem": "Tốt",
+      "diemHK": {
+        "hocKiI": 9,
+        "hocKiII": 8,
+        "TBM": 9.0
+      },
+      "XepLoai": "Giỏi",
+      "GhiChu": "Tiếp thu khá nhanh cơ bản, chuyên sâu nhiều hơn, thực hành nhiều hơn"
+    }
+  ]
+}

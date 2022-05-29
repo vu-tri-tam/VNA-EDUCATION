@@ -1,0 +1,28 @@
+{
+  "thu": [
+    {
+      "id": 1,
+      "thu": "Chủ nhật",
+      "ngayHoc": "2021-07-01",
+      "tuan": "tuần 2"
+    },
+    {
+      "thu": "Thứ 4",
+      "tuan": "Tuần 2",
+      "ngayHoc": "23/07/2021",
+      "id": 4
+    },
+    {
+      "thu": "Thứ 7",
+      "tuan": "tuần 1",
+      "ngayHoc": "23/07/2021",
+      "id": 5
+    },
+    {
+      "thu": "Thứ 6",
+      "tuan": "tuần 1",
+      "ngayHoc": "1-8-2021",
+      "id": 6
+    }
+  ]
+}

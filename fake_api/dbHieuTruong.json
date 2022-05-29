@@ -1,0 +1,74 @@
+{
+    "hieu-truong": [
+        {
+            "monHoc": {
+                "_id": "1",
+                "tenMH": "Anh văn 10"
+            },
+            "soTiet": 16,
+            "giaoVien": [
+                {
+                    "giaoVien": {
+                        "_id": 1,
+                        "hoTen": "vũ trí tâm"
+                    },
+                    "luotDG": "10/40",
+                    "diemTong": 10,
+                    "lopHoc": [
+                        {
+                            "_id": 1,
+                            "lopHoc": {
+                                "_id": 1,
+                                "maLH": "12A3"
+                            },
+                            "tuanDG": {
+                                "_id": 1,
+                                "soTuan": 1
+                            },
+                            "chiTiet": [
+                                {
+                                    "_id": 1,
+                                    "nguoiDG": {
+                                        "_id": 1,
+                                        "hoTen": "lê hoàng hải"
+                                    },
+                                    "hocKy": 1,
+                                    "diemDG": 9,
+                                    "gopY": "dạy ok lắm nha"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "gvcn": [
+        {
+            "_id": 1,
+            "maND": "GV001",
+            "hoTen": "lê hoàng hải",
+            "GVCN": "12A3",
+            "namHoc": [
+                {
+                    "_id": 1,
+                    "namHoc": "năm học 2021-2022",
+                    "chiTiet": [
+                        {
+                            "_id": 1,
+                            "hoTen": "vũ trí tâm",
+                            "diemDG": 9,
+                            "gopY": "dạy ok lắm nha"
+                        },
+                        {
+                            "_id": 2,
+                            "hoTen": "vũ trí dũng",
+                            "diemDG": 8,
+                            "gopY": "dạy ok"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

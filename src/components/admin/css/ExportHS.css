@@ -1,0 +1,13 @@
+.export-card {
+  padding-top: 0 !important;
+  display: flex;
+}
+.export-select {
+  width: 150px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.export-button {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}

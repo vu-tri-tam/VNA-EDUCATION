@@ -1,0 +1,22 @@
+.tableInTable td {
+  border: 0px;
+  white-space: nowrap;
+}
+
+/* .tableInTable tr:nth-child(odd) {
+  background-color: #f1f2f6;
+}
+
+.tableInTable tr:nth-child(even) {
+  background-color: #ffff;
+} */
+
+.tableInTable2 td {
+  border: 0px;
+  white-space: nowrap;
+  border-left: 1px solid gray;
+}
+.tableInTable2 td:first-child {
+  border: 0px;
+  border-left: none;
+}

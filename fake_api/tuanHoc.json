@@ -1,0 +1,58 @@
+{
+  "tuan-hoc": [
+    {
+      "id": 1,
+      "tuan": "Tuần 2",
+      "soTuan": "2",
+      "thoiGianBatDau": "2021-07-04",
+      "thoiGianKetThuc": "2021-07-02",
+      "buoiHoc": [
+        {
+          "id": 1,
+          "thu": "Hai",
+          "ngayHoc": "19/05/2021",
+          "lop": [
+            {
+              "id": 1,
+              "tenLop": "10A1",
+              "monHoc": [
+                {
+                  "id": 1,
+                  "monHoc": "Sinh Học",
+                  "giaoVien": "Mr A",
+                  "thoiGianBatDau": "07:30"
+                },
+                {
+                  "id": 2,
+                  "monHoc": "Sinh Học",
+                  "giaoVien": "Mr A",
+                  "thoiGianBatDau": "18:15"
+                },
+                {
+                  "id": 3,
+                  "monHoc": "Lịch sử",
+                  "giaoVien": "Mr X",
+                  "thoiGianBatDau": "09:20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tuan": "tuần 1",
+      "soTuan": "3",
+      "thoiGianBatDau": "2021-07-24",
+      "thoiGianKetThuc": "2022-11-18",
+      "id": 2
+    },
+    {
+      "tuan": "tuần 2",
+      "soTuan": "5",
+      "thoiGianBatDau": "2021-07-18",
+      "thoiGianKetThuc": "2022-12-20",
+      "id": 3
+    }
+  ]
+}

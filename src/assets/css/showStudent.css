@@ -1,0 +1,207 @@
+body {
+  color: rgb(14 30 140) !important;
+}
+
+.content {
+  background: white;
+}
+
+.formShow {
+  background-color: white;
+  padding: 10px;
+}
+
+.formShow h4 {
+  text-align: center;
+  line-height: 2.3 !important;
+}
+
+.formShow .infoClass {
+  display: flex;
+  width: 100%;
+}
+
+.formShow .infoClass span {
+  font-weight: 600;
+}
+
+.formShow .infoClass .left {
+  /* flex: 1; */
+  display: flex;
+  margin: 0 50px 0 0;
+  width: 50%;
+  line-height: 41px;
+}
+
+.formShow .infoClass .right {
+  /* flex: 1; */
+  display: flex;
+  /* margin: 0 50px 0 0; */
+  width: 50%;
+}
+
+.formShow .infoClass .right .className {
+  /* flex: 1; */
+  /* display: flex;
+    margin: 0 50px 0 0;
+    width: 50%; */
+  margin-left: auto;
+}
+
+.formShow .infoClass .left .className {
+  /* flex: 1; */
+  flex: 1;
+  margin: 0 50px 0 0;
+}
+
+.formShow .className span select {
+  /* flex: 1; */
+  /* margin: 0 50px 0 0; */
+  padding: 8px;
+  border: 1px gray;
+  border-radius: 4px;
+  background: ghostwhite;
+}
+
+/* ----css table */
+
+/* Post Table */
+
+.post-body table {
+  width: 100%;
+  margin: 1% 0 0 0;
+}
+
+.post-body table td, .post-body table caption {
+  background: #fff;
+  border: 1px solid rgb(0 0 0 / 10%);
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.post-body table th {
+  background: rgb(238 238 238 / 50%);
+  color: rgb(8 8 8);
+  border: 1px solid rgb(4 4 4 / 8%);
+  border-bottom: 0;
+  padding: 10px;
+  text-align: center;
+  vertical-align: top;
+}
+
+.post-body table.tr-caption-container {
+  border: 1px solid rgba(8, 7, 20, 0.14);
+  margin: 0;
+}
+
+.post-body th {
+  font-weight: 700;
+}
+
+.post-body table caption {
+  border: none;
+  font-style: italic;
+}
+
+.post-body td, .post-body th {
+  vertical-align: top;
+  text-align: left;
+  font-size: 13px;
+  padding: 3px 5px;
+  border: 1px solid #97b28e;
+}
+
+.post-body table tr td {
+  text-align: center !important;
+  /* width: 100px !important; */
+}
+
+.post-body th:hover {
+  color: #fff;
+}
+
+.post-body td a {
+  color: #444;
+}
+
+.post-body td a:hover {
+  color: #cf4d35;
+}
+
+.post-body table.tr-caption-container td {
+  border: 0;
+  padding: 8px;
+  background: #fff;
+  line-height: 17px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 700;
+  color: #000;
+}
+
+.post-body table.tr-caption-container, .post-body table.tr-caption-container img, .post-body img {
+  max-width: 100%;
+  height: auto;
+}
+
+.post-body li {
+  list-style-type: square;
+}
+
+.post-body td.tr-caption {
+  color: #666;
+  font-size: 80%;
+  padding: 0px 8px 8px !important;
+}
+
+.post-body td {
+  /* width: 150px; */
+  font-size: 15px;
+}
+
+.sr {
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+@media only screen and (max-width: 600px) {
+  .container-table {
+    margin-top: 22%!important;
+  }
+  .card-content .card-header .mb-3 {
+    /* width: 100%!important; */
+  }
+  .card-content .card-header .mb-3 .row {
+    flex-direction: column;
+  }
+  .card-content .card-header .mb-3 .row .col-4 {
+    width: 100%!important;
+    margin-bottom: 3%;
+  }
+  .formShow .infoClass .left .className {
+    font-size: 13px;
+    margin: 0 46px 0 0;
+  }
+  .post-body table th {
+    width: 100%!important;
+  }
+  .post-body table tr {
+    width: 100%!important;
+    height: 100px!important;
+  }
+  .ghi-chu {
+    width: 200px;
+  }
+}
